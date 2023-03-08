@@ -1,2 +1,3 @@
 this is the original line of code 
-new fix has been applied 
+we have added a new feature to our application 
+this is new code 
